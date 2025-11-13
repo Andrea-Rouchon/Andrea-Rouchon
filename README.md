@@ -1,6 +1,6 @@
-# Welcome to my GitHub profile
+# Welcome to my GitHub profile!
 
-## About Me
+## Background
 
 I am a PhD Candidate in Applied Economics at Érudite (Université Gustave Eiffel), where I began my doctorate on 1 September 2025. My research examines the economic costs of corruption through the case of China, with a particular focus on how institutional environments and anti-corruption policies affect firm behaviour, investment structures, market power, and innovation.
 
