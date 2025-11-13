@@ -1,6 +1,6 @@
-# Welcome to my GitHub profile! 👋🏻
+# Hello and welcome! 👋🏻
 
-## Background
+## 🧭 Background
 
 I am a PhD Candidate in Applied Economics at Érudite (Université Gustave Eiffel), where I began my doctorate on 1 September 2025. My research examines the economic costs of corruption through the case of China, with a particular focus on how institutional environments and anti-corruption policies affect firm behaviour, investment structures, market power, and innovation.
 
@@ -12,13 +12,13 @@ I work in French (native) and English (fluent).
 
 ---
 
-## Research Interests
+## 🔎 Research Interests
 
-Development Economics · Political Economy · Applied Microeconomics · Econometrics · China · Corruption · Public Investment · Corporate Donations · Firm Performance · Innovation
+Development Economics · Political Economy · Applied Microeconomics · Econometrics · China · Corruption · Public Investment · Corporate Donations · Firm Performance
 
 ---
 
-## Doctoral Research
+## 📚 Doctoral Research
 
 **Thesis title:** *Corruption and Economic Distorsions: The Example of China*  
 **Supervisors:** Mélika Ben Salem and Marin Ferry  
@@ -28,14 +28,14 @@ My doctoral project studies the Chinese anti-corruption campaign launched in 201
 
 ---
 
-## Technical Skills
+## 🛠️ Technical Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Stata](https://img.shields.io/badge/Stata-1A5F8A?style=flat-square&logo=stata&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=overleaf&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
