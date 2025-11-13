@@ -2,19 +2,13 @@
 
 ## 🌱 Background
 
-I am a PhD Candidate in Applied Economics at Érudite (Université Gustave Eiffel), where I began my doctorate on 1 September 2025. My research examines the economic costs of corruption through the case of China, with a particular focus on how institutional environments and anti-corruption policies affect firm behaviour, investment structures, market power, and innovation.
+I arrived in Paris in 2019 with a simple plan: study economics. But somewhere between development theory and my first econometrics class, something shifted. I realised that what fascinated me most was not abstract models, but the stories hidden in data — the quiet patterns that explain how societies grow, adapt, and sometimes fracture. My first research project on climate-driven migration confirmed it: I wanted to understand the world through evidence.
 
-My academic trajectory has progressively evolved toward development economics, political economy, and applied microeconometrics. After a Bachelor’s degree and a research-oriented Master’s programme at Université Paris 1 Panthéon-Sorbonne, I joined the Master 2 *Development Economics & International Project Management* at Université Gustave Eiffel. Across these programmes, I conducted several empirical research projects relying on firm-level and institutional data, which ultimately led me to formalize my doctoral project.
+As I moved into my Master’s studies, institutions and firm behaviour became my compass. A thesis on firm-level debt and growth led me to the Érudite research lab, where I discovered the pace, patience, and curiosity of academic work. I continued to refine my interests during a second Master’s at Université Gustave Eiffel, where another research project helped me articulate the questions that mattered most to me.
 
-I completed two long research internships at Érudite under the supervision of Marin Ferry, where I strengthened my interest in data-intensive research, applied econometrics, and the empirical analysis of institutions. I also gained teaching experience as a teaching assistant in undergraduate economics.
+Slowly, almost unexpectedly, everything pointed toward China. Its sweeping 2012 anti-corruption campaign, its remarkable growth despite deep institutional frictions, its unusual balance between central authority and regional autonomy — it all felt like a perfect storm of economic and political forces. The more I explored it, the more it became clear that this was the landscape where my research truly belonged.
 
-I work in French (native) and English (fluent).
-
----
-
-## 🔎 Research Interests
-
-Development Economics · Political Economy · Applied Microeconomics · Econometrics · China · Corruption · Public Investment · Corporate Donations · Firm Performance
+And that is where I stand now: a PhD Candidate in Economics at the Érudite research laboratory, Université Gustave Eiffel, trying to shed light on the complex ties between corruption, institutions, and economic development.
 
 ---
 
@@ -25,6 +19,12 @@ Development Economics · Political Economy · Applied Microeconomics · Economet
 **Laboratory:** Érudite, Université Gustave Eiffel
 
 My doctoral project studies the Chinese anti-corruption campaign launched in 2012 and its implications for firm performance and economic distortions. The research relies on large-scale firm-level data and applied econometric strategies, including difference-in-differences in standard and staggered configurations. Beyond the empirical contribution, the project aims to better understand how the interaction between a centralised political structure and a decentralised economic system shapes firms’ behaviour and regional development trajectories.
+
+---
+
+## 🔎 Research Interests
+
+Development Economics · Political Economy · Applied Microeconomics · Econometrics · China · Corruption · Public Investment · Corporate Donations · Firm Performance
 
 ---
 
