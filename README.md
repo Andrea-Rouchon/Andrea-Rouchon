@@ -2,14 +2,6 @@
 
 ## 🌱 Background
 
-I arrived in Paris in 2019 with a simple plan: study economics. But somewhere between development theory and my first econometrics class, something shifted. I realised that what fascinated me most was not abstract models, but the stories hidden in data — the quiet patterns that explain how societies grow, adapt, and sometimes fracture. My first research project on climate-driven migration confirmed it: I wanted to understand the world through evidence.
-
-As I moved into my Master’s studies, institutions and firm behaviour became my compass. A thesis on firm-level debt and growth led me to the Érudite research lab, where I discovered the pace, patience, and curiosity of academic work. I continued to refine my interests during a second Master’s at Université Gustave Eiffel, where another research project helped me articulate the questions that mattered most to me.
-
-Slowly, almost unexpectedly, everything pointed toward China. Its sweeping 2012 anti-corruption campaign, its remarkable growth despite deep institutional frictions, its unusual balance between central authority and regional autonomy — it all felt like a perfect storm of economic and political forces. The more I explored it, the more it became clear that this was the landscape where my research truly belonged.
-
-And that is where I stand now: a PhD Candidate in Economics at the Érudite research laboratory, Université Gustave Eiffel, trying to shed light on the complex ties between corruption, institutions, and economic development.
-
 ---
 
 ## 📚 Doctoral Research
