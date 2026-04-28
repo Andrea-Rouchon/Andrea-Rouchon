@@ -6,12 +6,6 @@
 
 ## 📚 Doctoral Research
 
-**Thesis title:** *Corruption and Economic Distorsions: The Example of China*  
-**Supervisors:** Mélika Ben Salem and Marin Ferry  
-**Laboratory:** Érudite, Université Gustave Eiffel
-
-My doctoral project studies the Chinese anti-corruption campaign launched in 2012 and its implications for firm performance and economic distortions. The research relies on large-scale firm-level data and applied econometric strategies, including difference-in-differences in standard and staggered configurations. Beyond the empirical contribution, the project aims to better understand how the interaction between a centralised political structure and a decentralised economic system shapes firms’ behaviour and regional development trajectories.
-
 ---
 
 ## 🔎 Research Interests
